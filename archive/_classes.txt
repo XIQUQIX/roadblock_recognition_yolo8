@@ -1,0 +1,22 @@
+right turn
+left turn
+puddle
+street vendor
+obstacle
+bad road
+garbage bin
+chair
+pothole
+car
+motorcycle
+pedestrian
+fence
+gate barrier
+roadblock
+door
+tree
+plant pot
+drain
+stair
+pole
+zebra cross
